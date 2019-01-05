@@ -1,0 +1,18 @@
+.disabled{
+    color:gray;
+    text-decoration: line-through;
+}
+.checked{
+    
+}
+.checked div>span{
+    text-decoration: line-through;
+    color: gray;
+}
+.notchecked{
+
+}
+.notchecked div>span{
+    text-decoration: none;
+    color: black
+}
